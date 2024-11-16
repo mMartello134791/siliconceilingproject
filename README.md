@@ -7,6 +7,7 @@ With the arrival and ever increasing usage of artificial intelligence, it become
 ### Methodology
 
 [Datasource]((https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset)
+
 Python, Google colab
 
 Currently, the code includes:
