@@ -8,8 +8,6 @@ With the arrival and ever increasing usage of artificial intelligence, it become
 
 [Datasource]((https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset)
 
-Python, Google colab
-
 Currently, the code includes:
 - Extracting ten resumes for ten different jobs from kaggle.
 - Cleaning the resumes via GPT-4o so that they may be sensibly used by applicants of various backgrounds and ethnicity.
