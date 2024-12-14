@@ -16,4 +16,5 @@ Currently, the code includes:
 - Getting three seperate prompts for GPT - Rating, Interview, and Hiring. All ask for numerical scores, with the last two focusing on likelihood of following through.
 - Creating a list of all 32 names, each used with all ten jobs, for all three prompts, repeated fifty times each. The final list has a length of 48,000.
 - Saving the combined array in 48 seperate json files.
-- Utilizing OpenAI's Batch API to generate scores for each element in the resume, and saving the results in 48 seperate JSON files. (IN PROGRESS)
+- Utilizing OpenAI's Batch API to generate scores for each element in the resume, and saving the results in 48 seperate JSON files.
+- Analyzing differences in mean score between occupations with a higher percentage of women, a higher percentage of men, more racial diversity, and less racial diversity.
